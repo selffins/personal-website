@@ -1,0 +1,66 @@
+#+title: personal website
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css">
+
+* what
+- this is [[https://www.collinsdictionary.com/dictionary/english/onanistic][my]] [[https://www.merriam-webster.com/dictionary/conceited][personal]] [[https://dictionary.cambridge.org/dictionary/english/pretentious][(louis)]] [[https://en.wikipedia.org/wiki/Virtue_signalling#Definition_and_usage][website]]. (<--- links are warnings/disclaimers)
+- aliases: louis, earl, earl louis (legal first name), lewis (it is more unambiguous in pronunciation), equillin, selffins (online identity), that one guy over there
+- grammatically male
+
+* academic profile
+- louis is a cs student at cmu [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance#Gumption_traps][and]] [[https://dictionary.cambridge.org/dictionary/english/poseur][an]] [[https://dictionary.cambridge.org/dictionary/english/be-all-talk-and-no-action][aspiring]] [[https://en.wikipedia.org/wiki/Self-realization][something-to-be]]
+- minoring in Principles of Programming Languages and Professional Writing
+- primary areas of academic interest: proof theory, interactive theorem provers, formal verification
+- current effort is spent on an independent study about formal verification (a reading of the excellent book Software Foundations): https://selffins.github.io/lf/
+- upcoming project in formalization of metatheory in Coq/Rocq
+
+* music listening
+- my only real hobby is music listening: here is a 1 minute summary in song form about [[https://www.youtube.com/watch?v=dKipYHuZUD8][me and music]]
+- 1/4-th of 2024 was spent listening to music
+- what i am listening to recently: [[https://www.last.fm/user/selffins][last.fm]]
+- what albums are very important to me (the last few months): [[https://shorturl.at/4CkDk][topsters]]
+- look at some of my playlists: [[https://open.spotify.com/user/m0zp47pe91bma5yw67nqcsl8k?si=9899e9de39ba4456][spotify]]
+- i rate music sometimes: [[https://rateyourmusic.com/~selffins][rateyourmusic.com/~selffins]]
+- if you were to get one recommendation of a song from me (as of now): [[https://midairthief.bandcamp.com/track/ahhhh-these-chains][Mid-Air Thief - Ahhhh, These Chains!]]
+- if i were to recommend one album for you to "get to know me": [[https://carseatheadrest.bandcamp.com/album/how-to-leave-town][Car Seat Headrest - How to Leave Town]]
+- [[https://en.wikipedia.org/wiki/Phil_Elverum][Phil Elverum]], [[https://en.wikipedia.org/wiki/David_Berman_(musician)][David Berman]], [[https://en.wikipedia.org/wiki/Will_Toledo][Will Toledo]], [[https://en.wikipedia.org/wiki/Brian_Wilson][Brian Wilson]], [[https://en.wikipedia.org/wiki/David_Byrne][David Byrne]], [[https://en.wikipedia.org/wiki/Bj%C3%B6rk][Björk]] are my heroes
+
+* a few opinions
+- i am a lower-caps person [[https://en.wikipedia.org/wiki/Virtue_signalling#Definition_and_usage][:(]]
+- louis likes [[https://www.merriam-webster.com/dictionary/pretentious][philosophy]], linguistics, psychology, emacs, personal knowledge systems, their cat, and listening to music
+- i don't like bold statements, but if i had one, this is My Core Mission: to strive for a slower, peaceful, quieter, kinder, more empathic, more reflective world - internal and external
+- idealist in principle, reluctant pragmatist in practice
+- i am 40% on the way to becoming a luddite. i am less and less enthusiastic to call myself a computer scientist. i am concerned and skeptic of the state of tech in society right now.
+- i cannot respect nor be friends with those who do not like pineapple on pizza / hawaiian pizza (depending on how they reason about why they do not like it)
+- you can learn a lot about people's worldview (and particularly political belief) based on their attitude towards modern art
+- i like south park :(
+- aspiring [[https://timrodenbroeker.de/digital-garden/][digital]] [[https://maggieappleton.com/garden-history/][gardener]]
+- louis is looking for friends, conversation, and help (in either direction)
+- my (unset) world-view: [[https://en.wikipedia.org/wiki/Epistemic_humility][Epistemic humility]], [[https://en.wikipedia.org/wiki/Possibilianism][Possibilianism]], [[https://en.wikiversity.org/wiki/Beyond_Theism][Beyond Theism]]
+- my political compass test [[https://www.politicalcompass.org/yourpoliticalcompass_js?ec=-7.38&soc=-7.23][results]]
+- 60% rationalist, 40% empiricist
+- everything is worth studying (but study with the aim of "real-world applicability" without enough ethical reflection is not good)
+- motivation and discipline is a myth
+- i read this [[https://aeon.co/essays/i-am-a-better-therapist-since-i-let-go-of-therapeutic-theory][essay]] on psychotherapy quite frequently, i am not sure if i fully agree with it, but i think of it often
+- [[https://www.npr.org/sections/shots-health-news/2024/11/29/nx-s1-5210688/lonelieness-epidemic-social-isolation-parenting-cohousing][cohousing]] is an interesting proposition
+- i would like to live in the [[https://en.wikipedia.org/wiki/Pacific_Northwest][PNW]]. pittsburgh was nice. doha is quiet and efficient. i don't mind the rain and cold.
+- i like [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]] although i am yet to finish it
+- i smash the random article button in wikipedia like how one scrolls through instagram reels or tiktok
+- i have some pretty good knowledge of geography (rare flex: perfect score in the qualifier for the international geography olympiad) and history
+- learning how to write short stories
+- i like these stories: "[[https://moglen.law.columbia.edu/LCS/bartleby.pdf][Bartleby, The Scrivener]]" and "[[https://www.kafka-online.info/a-hunger-artist.html][A Hunger Artist]]"
+- i like this artist: [[https://en.wikipedia.org/wiki/Henry_Darger][Henry Darger]]
+- recovering comic
+- not very sure of himself
+- i will regret making this website
+
+* curiosities
+- areas of curiosity: foundations, history, philosophy of mathematics
+- i [[https://www.merriam-webster.com/dictionary/go%20nowhere][swear]] [[https://www.merriam-webster.com/dictionary/poseur][i]] am going to learn the basics of: haskell, group theory, category theory, homotopy type theory ( i will get you one day!!!!), constructive mathematics, COBOL (yes, indeed)
+- i swear to read more about Godel, Frege, Martin-Lof, Girard
+- farther areas of curiosity: linguistics, computational linguistics, social computing, analytic philosophy
+
+* contact
+- email: equillin at cmu dot edu
+- discord: selffins#0000
+- facebook for programmers (i.e. github): https://github.com/selffins
+- visit me: 54.4296° S, 36.5879° W
