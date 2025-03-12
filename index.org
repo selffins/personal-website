@@ -12,8 +12,7 @@
 - Primary areas of academic interest: proof theory, interactive theorem provers, formal verification
 
 * Professional Statement
-- I am a undergraduate CS senior, graduating Spring 2025 from Carnegie Mellon University, in their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad
-overview of logic, programming language theory (PLT) and formal methods.
+- I am a undergraduate CS senior, graduating Spring 2025 from Carnegie Mellon University, in their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad overview of logic, programming language theory (PLT) and formal methods.
 - Specifically, I am interested in proof theory and interactive theorem proving, guided by my advisor Giselle Reis (greis@andrew.cmu.edu).
 - Right now, I am conducting an independent study - learning the Coq theorem prover and using Coq to study proof systems —i.e. mechanized metatheory. I will be extending this work under a grant in a summer undergraduate research program, and develop it into a senior undergraduate thesis with Giselle Reis. The goal is to streamline methods in formalizations of metatheory—particularly by addressing the problem of context representations by evaluating current approaches and possibly developing a novel approach.
 - I am also minoring in Professional Writing - an aim of mine is to study how to communicate my interests - proof theory/metamathematics and formal methods - to wider audiences.
@@ -53,7 +52,7 @@ Giving myself the opportunity to state opinions by suspending the sense of cring
 - My only real hobby is music listening: here is a 1 minute summary in song form about [[https://www.youtube.com/watch?v=dKipYHuZUD8][me and music]]
 - 1/4-th of 2024 was spent listening to music
 - What I am listening to recently: [[https://www.last.fm/user/selffins][last.fm]]
-- What albums are very important to me (the last few months): [[https://shorturl.at/4CkDk][topsters]]
+- What albums are very important to me (the last few months): [[https://docs.google.com/presentation/d/e/2PACX-1vTsGrsBRoLqK_A1-vteZXRNs0htwZBgW3mkJAlFBf_awLkMzX8N0HxhCUIaaDQorRnhIS_giurxu7-q/pub?start=false&loop=false&delayms=3000][topsters]]
 - Look at some of my playlists: [[https://open.spotify.com/user/m0zp47pe91bma5yw67nqcsl8k?si=9899e9de39ba4456][spotify]]
 - I rate music sometimes: [[https://rateyourmusic.com/~selffins][rateyourmusic.com/~selffins]]
 - If you were to get one recommendation of a song from me (as of now): [[https://midairthief.bandcamp.com/track/ahhhh-these-chains][Mid-Air Thief - Ahhhh, These Chains!]]
