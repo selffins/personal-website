@@ -12,8 +12,7 @@
 - Primary areas of academic interest: proof theory, interactive theorem provers, formal verification
 
 * Professional Statement
-- I am a undergraduate CS senior, graduating Spring 2025 from Carnegie Mellon University, in
-their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad
+- I am a undergraduate CS senior, graduating Spring 2025 from Carnegie Mellon University, in their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad
 overview of logic, programming language theory (PLT) and formal methods.
 - Specifically, I am interested in proof theory and interactive theorem proving, guided by my advisor Giselle Reis (greis@andrew.cmu.edu).
 - Right now, I am conducting an independent study - learning the Coq theorem prover and using Coq to study proof systems —i.e. mechanized metatheory. I will be extending this work under a grant in a summer undergraduate research program, and develop it into a senior undergraduate thesis with Giselle Reis. The goal is to streamline methods in formalizations of metatheory—particularly by addressing the problem of context representations by evaluating current approaches and possibly developing a novel approach.
