@@ -1,65 +1,73 @@
-#+title: personal website
+#+title: Semi-professional website
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css">
 
-* what
-- this is [[https://www.collinsdictionary.com/dictionary/english/onanistic][my]] [[https://www.merriam-webster.com/dictionary/conceited][personal]] [[https://dictionary.cambridge.org/dictionary/english/pretentious][(louis)]] [[https://en.wikipedia.org/wiki/Virtue_signalling#Definition_and_usage][website]]. (<--- links are warnings/disclaimers)
-- aliases: louis, earl, earl louis (legal first name), lewis (it is more unambiguous in pronunciation), equillin, selffins (online identity), that one guy over there
-- grammatically male
+* What
+- Louis Quilling's website
+- Aliases: louis,  lewis (it is more unambiguous in pronunciation), equillin, selffins (online identity), that one guy over there
+- Grammatically male
 
-* academic profile
-- louis is a cs student at cmu [[https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance#Gumption_traps][and]] [[https://dictionary.cambridge.org/dictionary/english/poseur][an]] [[https://dictionary.cambridge.org/dictionary/english/be-all-talk-and-no-action][aspiring]] [[https://en.wikipedia.org/wiki/Self-realization][something-to-be]]
-- minoring in Principles of Programming Languages and Professional Writing
-- primary areas of academic interest: proof theory, interactive theorem provers, formal verification
-- current effort is spent on an independent study about formal verification (a reading of the excellent book Software Foundations): https://selffins.github.io/lf/
-- upcoming project in formalization of metatheory in Coq/Rocq
+* Academic Profile
+- Minoring in Principles of Programming Languages and Professional Writing
+- Louis is a CS undergraduate student at CMU
+- Primary areas of academic interest: proof theory, interactive theorem provers, formal verification
 
-* music listening
-- my only real hobby is music listening: here is a 1 minute summary in song form about [[https://www.youtube.com/watch?v=dKipYHuZUD8][me and music]]
+* Professional Statement
+- I am a undergraduate CS senior, graduating Spring 2025 from Carnegie Mellon University, in
+their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad
+overview of logic, programming language theory (PLT) and formal methods.
+- Specifically, I am interested in proof theory and interactive theorem proving, guided by my advisor Giselle Reis (greis@andrew.cmu.edu).
+- Right now, I am conducting an independent study - learning the Coq theorem prover and using Coq to study proof systems —i.e. mechanized metatheory. I will be extending this work under a grant in a summer undergraduate research program, and develop it into a senior undergraduate thesis with Giselle Reis. The goal is to streamline methods in formalizations of metatheory—particularly by addressing the problem of context representations by evaluating current approaches and possibly developing a novel approach.
+- I am also minoring in Professional Writing - an aim of mine is to study how to communicate my interests - proof theory/metamathematics and formal methods - to wider audiences.
+
+* Work so far
+
+    - Very very very modest, nascent writing portfolio: [[https://docs.google.com/document/d/1tXGWEhwr83BrJDGW0OWJKRs60QbKRvY5X-SDSWqY2Dk/edit?usp=sharing][Writing Samples]], soon to be made presentable, and crystallized into a blog. I have written mostly for other topics than math, so, this is a recent effort. I connected with some people in PLT recently and I was inspired by discussions - interfield discussions - because when connecting with people in other subfields - you have to think of effective ways of communicating understandably, without losing too much conceptual rigor, and  with a view of how this is applicable.
+    - Current effort is spent on an independent study about formal verification (a reading of the excellent book Software Foundations): https://selffins.github.io/lf/
+    - Upcoming project in formalization of metatheory in Coq/Rocq. Specifically, context representations.
+    - Relevant courses taken: functional programming (15150), constructive logic (15317), programming language theory (15312), logic and mechanized reasoning (15311), automated program verification (15414), software foundations of security and privacy (15316), epistemology (80261), an independent study on formal verification / interactive theorem provers, and an upcoming QSIURP proposal on formalized metatheory and a possible thesis project.
+    - In terms of writing: Style (76390), Interpretation and Argument (76101), Argument (76373), Rhetorical Grammar (76389), Corpus Linguistics (76328), Professional Writing (76270), and possibly an upcoming Independent Study in Rhetoric - targeting Scientific Writing for Math/Logic.
+
+* Other
+
+Giving myself the opportunity to state opinions by suspending the sense of cringe, here is a list of opinions or information about me.
+
+- Louis likes [[https://www.merriam-webster.com/dictionary/pretentious][philosophy]], linguistics, psychology, emacs, personal knowledge systems, their cat, and listening to music
+- I don't like bold statements, but if i had one, this is My Core Mission: to strive for a slower, peaceful, quieter, kinder, more empathic, more reflective world - internal and external
+- Idealist in principle, reluctant pragmatist in practice
+- I am 40% on the way to becoming a luddite. I am less and less enthusiastic to call myself a computer scientist - or really, a programmer. I am concerned and skeptic of the role of technology in society right now.
+- I cannot respect nor be friends with those who do not like pineapple on pizza / hawaiian pizza (depending on how they reason about why they do not like it).
+- You can learn a lot about people's worldview (and particularly political belief) based on their attitude towards modern art.
+- I am an aspiring [[https://timrodenbroeker.de/digital-garden/][digital]] [[https://maggieappleton.com/garden-history/][gardener]].
+- Louis is looking for friends, conversation, and help (in either direction).
+- My (unset) world-view: [[https://en.wikipedia.org/wiki/Epistemic_humility][Epistemic humility]], [[https://en.wikipedia.org/wiki/Possibilianism][Possibilianism]], [[https://en.wikiversity.org/wiki/Beyond_Theism][Beyond Theism]]
+- My political compass test [[https://www.politicalcompass.org/yourpoliticalcompass_js?ec=-7.38&soc=-7.23][results]].
+- I am a logical pluralist, in the same vein as Corcoran (historian of logic).
+- [[https://www.npr.org/sections/shots-health-news/2024/11/29/nx-s1-5210688/lonelieness-epidemic-social-isolation-parenting-cohousing][Cohousing]] is an interesting proposition
+- I would like to live in the [[https://en.wikipedia.org/wiki/Pacific_Northwest][PNW]]. Pittsburgh was nice. doha is quiet and efficient. I don't think I'd mind the rain and cold.
+- I smash the random article button in wikipedia like how one scrolls through instagram reels or tiktok
+- I have some pretty good knowledge of geography, linguistics and history. A particularly annoying thing about me is my digression into etymology whenever someone uses an interesting word or name.
+- I am learning how to write short stories.
+- I like this artist and other outsider artists: [[https://en.wikipedia.org/wiki/Henry_Darger][Henry Darger]].
+- I am not very sure of myself. I am a recovering comic. I am getting better.
+
+* Music listening
+- My only real hobby is music listening: here is a 1 minute summary in song form about [[https://www.youtube.com/watch?v=dKipYHuZUD8][me and music]]
 - 1/4-th of 2024 was spent listening to music
-- what i am listening to recently: [[https://www.last.fm/user/selffins][last.fm]]
-- what albums are very important to me (the last few months): [[https://shorturl.at/4CkDk][topsters]]
-- look at some of my playlists: [[https://open.spotify.com/user/m0zp47pe91bma5yw67nqcsl8k?si=9899e9de39ba4456][spotify]]
-- i rate music sometimes: [[https://rateyourmusic.com/~selffins][rateyourmusic.com/~selffins]]
-- if you were to get one recommendation of a song from me (as of now): [[https://midairthief.bandcamp.com/track/ahhhh-these-chains][Mid-Air Thief - Ahhhh, These Chains!]]
-- if i were to recommend one album for you to "get to know me": [[https://carseatheadrest.bandcamp.com/album/how-to-leave-town][Car Seat Headrest - How to Leave Town]]
+- What I am listening to recently: [[https://www.last.fm/user/selffins][last.fm]]
+- What albums are very important to me (the last few months): [[https://shorturl.at/4CkDk][topsters]]
+- Look at some of my playlists: [[https://open.spotify.com/user/m0zp47pe91bma5yw67nqcsl8k?si=9899e9de39ba4456][spotify]]
+- I rate music sometimes: [[https://rateyourmusic.com/~selffins][rateyourmusic.com/~selffins]]
+- If you were to get one recommendation of a song from me (as of now): [[https://midairthief.bandcamp.com/track/ahhhh-these-chains][Mid-Air Thief - Ahhhh, These Chains!]]
+- If I were to recommend one album for you to "get to know me": [[https://carseatheadrest.bandcamp.com/album/how-to-leave-town][Car Seat Headrest - How to Leave Town]]
 - [[https://en.wikipedia.org/wiki/Phil_Elverum][Phil Elverum]], [[https://en.wikipedia.org/wiki/David_Berman_(musician)][David Berman]], [[https://en.wikipedia.org/wiki/Will_Toledo][Will Toledo]], [[https://en.wikipedia.org/wiki/Brian_Wilson][Brian Wilson]], [[https://en.wikipedia.org/wiki/David_Byrne][David Byrne]], [[https://en.wikipedia.org/wiki/Bj%C3%B6rk][Björk]] are my heroes
 
-* a few opinions
-- i am a lower-caps person [[https://en.wikipedia.org/wiki/Virtue_signalling#Definition_and_usage][:(]]
-- louis likes [[https://www.merriam-webster.com/dictionary/pretentious][philosophy]], linguistics, psychology, emacs, personal knowledge systems, their cat, and listening to music
-- i don't like bold statements, but if i had one, this is My Core Mission: to strive for a slower, peaceful, quieter, kinder, more empathic, more reflective world - internal and external
-- idealist in principle, reluctant pragmatist in practice
-- i am 40% on the way to becoming a luddite. i am less and less enthusiastic to call myself a computer scientist. i am concerned and skeptic of the state of tech in society right now.
-- i cannot respect nor be friends with those who do not like pineapple on pizza / hawaiian pizza (depending on how they reason about why they do not like it)
-- you can learn a lot about people's worldview (and particularly political belief) based on their attitude towards modern art
-- i like south park :(
-- aspiring [[https://timrodenbroeker.de/digital-garden/][digital]] [[https://maggieappleton.com/garden-history/][gardener]]
-- louis is looking for friends, conversation, and help (in either direction)
-- my (unset) world-view: [[https://en.wikipedia.org/wiki/Epistemic_humility][Epistemic humility]], [[https://en.wikipedia.org/wiki/Possibilianism][Possibilianism]], [[https://en.wikiversity.org/wiki/Beyond_Theism][Beyond Theism]]
-- my political compass test [[https://www.politicalcompass.org/yourpoliticalcompass_js?ec=-7.38&soc=-7.23][results]]
-- 60% rationalist, 40% empiricist
-- everything is worth studying (but study with the aim of "real-world applicability" without enough ethical reflection is not good)
-- motivation and discipline is a myth
-- i read this [[https://aeon.co/essays/i-am-a-better-therapist-since-i-let-go-of-therapeutic-theory][essay]] on psychotherapy quite frequently, i am not sure if i fully agree with it, but i think of it often
-- [[https://www.npr.org/sections/shots-health-news/2024/11/29/nx-s1-5210688/lonelieness-epidemic-social-isolation-parenting-cohousing][cohousing]] is an interesting proposition
-- i would like to live in the [[https://en.wikipedia.org/wiki/Pacific_Northwest][PNW]]. pittsburgh was nice. doha is quiet and efficient. i don't mind the rain and cold.
-- i like [[https://en.wikipedia.org/wiki/Disco_Elysium][Disco Elysium]] although i am yet to finish it
-- i smash the random article button in wikipedia like how one scrolls through instagram reels or tiktok
-- i have some pretty good knowledge of geography (rare flex: perfect score in the qualifier for the international geography olympiad) and history
-- learning how to write short stories
-- i like these stories: "[[https://moglen.law.columbia.edu/LCS/bartleby.pdf][Bartleby, The Scrivener]]" and "[[https://www.kafka-online.info/a-hunger-artist.html][A Hunger Artist]]"
-- i like this artist: [[https://en.wikipedia.org/wiki/Henry_Darger][Henry Darger]]
-- recovering comic
-- not very sure of himself
-- i will regret making this website
+* Curiosities
+- Areas of curiosity: foundations, history, philosophy of mathematics
+- I [[https://www.merriam-webster.com/dictionary/go%20nowhere][swear]] [[https://www.merriam-webster.com/dictionary/poseur][I]] am going to learn the basics of: haskell, group theory, category theory, homotopy type theory constructive mathematics.
+- Hoping to read more Godel, Bernays.
+- Farther areas of curiosity: linguistics, computational linguistics, social computing, analytic philosophy
 
-* curiosities
-- areas of curiosity: foundations, history, philosophy of mathematics
-- i [[https://www.merriam-webster.com/dictionary/go%20nowhere][swear]] [[https://www.merriam-webster.com/dictionary/poseur][i]] am going to learn the basics of: haskell, group theory, category theory, homotopy type theory ( i will get you one day!!!!), constructive mathematics, COBOL (yes, indeed)
-- i swear to read more about Godel, Frege, Martin-Lof, Girard
-- farther areas of curiosity: linguistics, computational linguistics, social computing, analytic philosophy
-
-* contact
+* Contact
 - email: equillin at cmu dot edu
 - discord: selffins#0000
 - facebook for programmers (i.e. github): https://github.com/selffins
