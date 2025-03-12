@@ -1,3 +1,4 @@
+
 #+title: Semi-professional website
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css">
 
@@ -19,7 +20,6 @@
 
 * Work so far
 
-    - Very very very modest, nascent writing portfolio: [[https://docs.google.com/document/d/1tXGWEhwr83BrJDGW0OWJKRs60QbKRvY5X-SDSWqY2Dk/edit?usp=sharing][Writing Samples]], soon to be made presentable, and crystallized into a blog. I have written mostly for other topics than math, so, this is a recent effort. I connected with some people in PLT recently and I was inspired by discussions - interfield discussions - because when connecting with people in other subfields - you have to think of effective ways of communicating understandably, without losing too much conceptual rigor, and  with a view of how this is applicable.
     - Current effort is spent on an independent study about formal verification (a reading of the excellent book Software Foundations): https://selffins.github.io/lf/
     - Upcoming project in formalization of metatheory in Coq/Rocq. Specifically, context representations.
     - Relevant courses taken: functional programming (15150), constructive logic (15317), programming language theory (15312), logic and mechanized reasoning (15311), automated program verification (15414), software foundations of security and privacy (15316), epistemology (80261), an independent study on formal verification / interactive theorem provers, and an upcoming QSIURP proposal on formalized metatheory and a possible thesis project.
