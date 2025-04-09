@@ -1,4 +1,4 @@
-#+title: Semi-professional website
+[>65;6800;1c]#+title: Semi-professional website
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles.css">
 
 * What
@@ -6,13 +6,9 @@
 - Aliases: Earl, Louis, Lewis, equillin, selffins
 
 * Academic Profile
-- Minoring in Principles of Programming Languages and Professional Writing
 - A CS undergraduate student at CMU
+- Minoring in Principles of Programming Languages and Professional Writing
 - Primary areas of academic interest: proof theory, interactive theorem provers, formal verification
-
-* Professional Statement
-- I am a undergraduate CS senior, graduating Fall 2025 from Carnegie Mellon University, in their campus in Qatar. I minored in Principles of Programming Languages (PoPL), which allowed for a broad overview of logic, programming language theory (PLT) and formal methods.
-- With PoPL specifically, I am interested in proof theory and interactive theorem proving, guided by my advisor Dr. Giselle Reis (greis@andrew.cmu.edu).
 - I am also minoring in Professional Writing - an aim of mine is to study how to communicate my interests - proof theory/metamathematics and formal methods - to wider audiences.
 
 * Work so far
